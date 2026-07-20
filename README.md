@@ -29,6 +29,7 @@
 - [WebPageTest](https://www.webpagetest.org/) - Open-source tool for testing and analyzing website performance.
 - [GTmetrix](https://gtmetrix.com/) - Online tool for analyzing and optimizing web page performance.
 - [Pingdom](https://www.pingdom.com/) - Website monitoring and performance testing tool.
+- [Screpy](https://screpy.com/) - Commercial website monitoring for Core Web Vitals, page speed, uptime, and technical SEO audits.
 
 ## Frameworks
 
